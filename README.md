@@ -20,15 +20,15 @@ Para executar o projeto localmente, siga as instruções abaixo:
 
 1. **Clone o repositório:**
 
-   \`\`\`bash
+   ```
    git clone https://github.com/wellingtoncorreia/TrabalhandoPseudoElemento.git
-   \`\`\`
+    ```
 
 2. **Navegue até o diretório do projeto:**
 
-   \`\`\`bash
+   ``` 
    cd TrabalhandoPseudoElemento
-   \`\`\`
+    ```
 
 3. **Abra o arquivo HTML em seu navegador:**
 
